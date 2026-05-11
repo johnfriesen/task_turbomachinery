@@ -30,7 +30,7 @@ Include helpful visualizations such as:
 - Histograms or boxplots of operating behavior
 
 # Resources Provided
-- Pump data sheet (https://ab-resale.com/wp-content/art_datasheets/AR4713.pdf)
+- Pump data sheet ([https://ab-resale.com/media/products/documents/etaline-etlz-200-200-250-ggsav66d303004-bksbie3_ar12649.pdf)](https://ab-resale.com/media/products/documents/etaline-etlz-200-200-250-ggsav66d303004-bksbie3_ar12649.pdf))
 - Volumentric Flow Rate CSV File
 
 # Tools 
