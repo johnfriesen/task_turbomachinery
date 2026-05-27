@@ -8,7 +8,7 @@ The goal of the project is to analyze the operating behavior of a water pump usi
 - You are working with a water pump used in an industrial setup.
 - The manufacturer's data sheet for the pump is available.
 - The volumetric flow rate is measured after the pump and logged in a .csv file (volume_flow_data.csv).
-- The impeller diameter is 264 mm.
+- The impeller diameter is 269 mm.
 
 # Your tasks
 You will write a Jupyter Notebook that performs the following:
